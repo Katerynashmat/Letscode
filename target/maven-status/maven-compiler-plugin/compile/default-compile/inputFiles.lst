@@ -1,0 +1,16 @@
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Config\WebSecurityConfig.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Controller\RegistrationController.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Domain\User.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Repository\UserRepository.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Controller\ControllerUtils.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Config\MailConfig.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Service\UserService.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Config\MvcConfig.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Service\MailSender.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Domain\Dto\CaptchaResponseDto.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\LetsCodeApplication.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Controller\MainController.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Domain\Role.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Controller\UserController.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Domain\Message.java
+E:\Projects\LetsCode\src\main\java\com\example\letscode\Repository\MessageRepository.java

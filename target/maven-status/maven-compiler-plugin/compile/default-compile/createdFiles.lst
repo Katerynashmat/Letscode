@@ -1,0 +1,16 @@
+com\example\letscode\Config\WebSecurityConfig.class
+com\example\letscode\Domain\Message.class
+com\example\letscode\LetsCodeApplication.class
+com\example\letscode\Service\MailSender.class
+com\example\letscode\Controller\RegistrationController.class
+com\example\letscode\Domain\Role.class
+com\example\letscode\Controller\MainController.class
+com\example\letscode\Service\UserService.class
+com\example\letscode\Repository\MessageRepository.class
+com\example\letscode\Domain\Dto\CaptchaResponseDto.class
+com\example\letscode\Config\MvcConfig.class
+com\example\letscode\Domain\User.class
+com\example\letscode\Repository\UserRepository.class
+com\example\letscode\Config\MailConfig.class
+com\example\letscode\Controller\UserController.class
+com\example\letscode\Controller\ControllerUtils.class
